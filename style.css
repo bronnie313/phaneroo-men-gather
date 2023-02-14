@@ -1,12 +1,17 @@
 
 body {
   background-image: url(./images/home-mobile.png);
-  background-repeat: repeat-y;
+
+  /* background-repeat: repeat-y; */
   background-size: contain;
 }
 
+/* * {
+    outline: 1px solid red;
+} */
+
 .head-intro {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 600;
   color: #ec5242;
 }
@@ -28,7 +33,7 @@ section {
 }
 
 .head-titles {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
@@ -42,19 +47,19 @@ section {
 }
 
 .head-info {
-  font-size: 20px;
+  font-size: 102%;
   background-color: var(--bs-gray-100);
   padding: 20px;
   border: 3px solid #fff;
 }
 
 .head-date {
-  font-size: 40px;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 
 .head-address {
-  font-size: 21px;
+  font-size: 18px;
 }
 
 ul {
@@ -68,9 +73,9 @@ h4 {
 
 .program-outline {
   display: flex;
-  padding: 20px;
+  padding: 2%;
   background-color: var(--bs-gray-800);
-  gap: 20px;
+  gap: 10px;
   align-items: center;
 }
 
@@ -91,20 +96,22 @@ h4 {
   align-self: center;
 }
 
-hr {
+.line {
   align-self: center;
-  width: 50%;
+  width: 20%;
   font-size: medium;
+  margin: 2px;
 }
 
 .subject {
-  font-size: 25px;
   color: #ff5722;
-  width: 30%;
+  width: 60%;
+  font-size: large;
 }
 
 .program-info {
   color: white;
+  width: 200%;
 }
 
 [type=submit] {
@@ -114,12 +121,13 @@ hr {
   font-weight: 600;
   font-size: 16px;
   color: white;
-  margin: 3em 25%;
+  margin: 0 22% 10% 22%;
   cursor: pointer;
 }
 
 .speakers {
   background-color: white;
+  padding-top: 20px;
 }
 
 .speakers-list {
@@ -136,4 +144,18 @@ li.speakers-details {
 
 .speakers-heading {
   align-self: center;
+}
+
+i {
+  font-size: small;
+}
+
+h6 {
+  font-size: 0.9rem;
+}
+
+.red {
+  width: 20%;
+  align-self: center;
+  color: red;
 }
