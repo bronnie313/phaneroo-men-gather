@@ -8,7 +8,7 @@ body {
 
 /* * {
     outline: 1px solid red;
-} */
+}   */
 
 .head-intro {
   font-size: 1.8rem;
@@ -171,16 +171,35 @@ h4 {
   cursor: pointer;
 }
 
+.speakers-img {
+  max-width: 90%;
+}
+
+.img-container {
+  background-image: url(./images/chess-box-pattern.jpg);
+  height: auto;
+  width: auto;
+  background-size: 50%;
+  background-position: top left;
+  background-repeat: no-repeat;
+  padding: 4% 0 0 4%;
+}
+
 .speakers {
   background-color: white;
   padding-top: 20px;
 }
 
 .speakers-list {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
   align-items: center;
   gap: 10px;
   padding: 20px;
+}
+
+#speakers-checklist {
+  padding: 0;
 }
 
 li.speakers-details {
@@ -197,7 +216,7 @@ i {
 }
 
 h6 {
-  font-size: 0.9rem;
+  font-size: 79%;
 }
 
 .red {
@@ -372,5 +391,15 @@ footer {
 
   .hamburgerShow {
     display: none;
+  }
+
+  .speakers {
+    background: #d3d3d3;
+  }
+
+  #speakers-checklist {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 2rem 10rem 10rem;
   }
 }
