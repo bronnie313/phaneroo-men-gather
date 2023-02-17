@@ -225,7 +225,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Portfolio](../../issues/).
+Feel free to check the [Phaneroo men Gather Conference](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
