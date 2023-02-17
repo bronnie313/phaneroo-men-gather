@@ -40,7 +40,7 @@ const array = [
     quoteDescription: 'We believe in the inherent integrity of the Word to work in the lives of men',
   },
   {
-    speakersPicture: './images/ben.jpg',
+    speakersPicture: './images/ken_thompson.jpg',
     speakersName: 'Dennis Ritchie',
     positionHeld: 'Professor at the University of Michigan',
     quoteDescription: 'Have a tradition of excellence in research, learning and teaching, sports and the arts, and more',
