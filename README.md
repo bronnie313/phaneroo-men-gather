@@ -1,31 +1,6 @@
 # phaneroo-men-gather
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="https://phaneroo.org/wp-content/uploads/2021/07/Phaneroo-Color-Logo-768x291.png" alt="logo" width="140"  height="auto" />
@@ -63,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Phaneroo Men Gather <a name="about-project"></a>
 
-**Phaneroo Men GAther conference** is a capestone project that displays "A website for the Phaneroo Men Gather conference" and it displays two pages the home page and the about page. It tests one's knowledge to know how to implement some functionality on the menu icon and the closing icon using JavaScript, it also requires one to know how to implement dynamic information using JavaScript forexample the featured speakers on this project was done rendered using javascript. 
+**Phaneroo Men GAther conference** is a capstone project that displays "A website for the Phaneroo Men Gather conference" and it displays two pages the home page and the about page. It tests one's knowledge to know how to implement some functionality on the menu icon and the closing icon using JavaScript, it also requires one to know how to implement dynamic information using JavaScript forexample the featured speakers on this project was done rendered using javascript. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,30 +47,18 @@ A project was built Using
 
 <details>
   <summary>HTML</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
 </details>
 
 <details>
   <summary>JavaScript</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
 </details>
 
 <details>
   <summary>VS code</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
 </details>
 
 
@@ -115,6 +78,8 @@ A project was built Using
 
 - [See WEB here](https://bronnie313.github.io/phaneroo-men-gather/)
 
+- [See PRESENTATION here](https://bronnie313.github.io/phaneroo-men-gather/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -127,75 +92,25 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:Install VSCode or Atom
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:https://github.com/bronnie313/phaneroo-men-gather.git
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 Install this project with:https://github.com/bronnie313/phaneroo-men-gather.git
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 To run the project, execute the following command:https://github.com/bronnie313/phaneroo-men-gather.git
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
 To run tests, run the following command:https://github.com/bronnie313/phaneroo-men-gather.git
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
 
 You can deploy this project using:https://github.com/bronnie313/phaneroo-men-gather.git
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +140,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Portfolio](../../issues/).
+Feel free to check the [Phaneroo men Gather Conference](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +159,7 @@ https://github.com/bronnie313
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank every one of you for the constant hard work and dedication.
+I would like to thank Cindy Shin the author of the Uer interface design, thank you for the constant hard work and dedication.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,27 +169,5 @@ I would like to thank every one of you for the constant hard work and dedication
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-MIT License
-
-Copyright (c) 2023 Bisaso Ronald
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>-
