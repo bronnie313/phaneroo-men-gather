@@ -55,7 +55,7 @@ const array = [
 
 const speakersID = document.getElementById('speakers-checklist');
 
-for(let i=0; i<= array.length; i+=1){
+for (let i = 0; i <= array.length; i += 1) {
   const person = document.createElement('li');
   person.className = 'speakers-list';
   person.innerHTML = `<div class="img-container">
@@ -70,19 +70,10 @@ for(let i=0; i<= array.length; i+=1){
 
   speakersID.appendChild(person);
 
-  if(i>=2){
+  if (i >= 2) {
     person.className = 'speakers-list hidden';
-
   }
-
 }
-
-
-
-
-
-
-
 
 // array.forEach((speaker) => {
 //   const person = document.createElement('li');
