@@ -74,31 +74,16 @@ body {
 }
 
 .red {
-  width: 20%;
+  width: 15%;
   align-self: center;
   color: red;
+  border-bottom: 4px solid red;
 }
 
 .take-a-look {
   text-align: center;
   padding-bottom: 15px;
 }
-
-/* .year {
-  text-align: center;
-  font-size: xx-large;
-
-  /* padding-top: 50px; */
-
-/*
-} */
-/*
-.place {
-  font-size: 0.9rem;
-  text-align: center;
-
-  /* padding-bottom: 80px; *//*
-} */
 
 .float-1 {
   position: relative;
@@ -116,7 +101,7 @@ img {
 .year-place {
   position: absolute;
   bottom: 0;
-  background: rgba(0, 210, 118, 0.8);
+  background: rgba(236, 82, 66, 0.8);
   width: 100%;
   height: 100%;
   display: flex;
@@ -146,6 +131,7 @@ img {
   column-gap: 10px;
   row-gap: 10px;
   padding-top: 10px;
+  filter: grayscale(100%) contrast(30%);
 }
 
 .rights {

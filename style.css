@@ -1,14 +1,8 @@
 
 body {
   background-image: url(./images/home-mobile.png);
-
-  /* background-repeat: repeat-y; */
   background-size: contain;
 }
-
-/* * {
-    outline: 1px solid red;
-}   */
 
 .head-intro {
   font-size: 1.8rem;
@@ -220,9 +214,10 @@ h6 {
 }
 
 .red {
-  width: 20%;
+  width: 15%;
   align-self: center;
   color: red;
+  border-bottom: 4px solid red;
 }
 
 .partners-title {
@@ -244,6 +239,7 @@ h6 {
   column-gap: 10px;
   row-gap: 10px;
   padding: 0% 10%;
+  filter: grayscale(100%) contrast(30%);
 }
 
 .rights {
@@ -346,6 +342,10 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .program-outline:hover {
+    border: 1px solid white;
   }
 
   .subject {
