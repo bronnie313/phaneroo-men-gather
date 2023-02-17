@@ -2,6 +2,10 @@ body {
   background-image: url(./images/home-mobile.png);
 }
 
+#menu {
+  font-size: 50px;
+}
+
 .about-headline {
   display: flex;
   flex-direction: column;

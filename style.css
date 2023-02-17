@@ -4,6 +4,10 @@ body {
   background-size: contain;
 }
 
+#menu {
+  font-size: 50px;
+}
+
 .head-intro {
   font-size: 1.8rem;
   font-weight: 600;
@@ -261,6 +265,14 @@ footer {
 
 .partner-logo {
   width: 100%;
+}
+
+.outline-img {
+  width: 15%;
+}
+
+.main-logo {
+  width: 30%;
 }
 
 @media only screen and (max-width: 768px) {
