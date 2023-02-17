@@ -55,18 +55,46 @@ const array = [
 
 const speakersID = document.getElementById('speakers-checklist');
 
-array.forEach((speaker) => {
+for(let i=0; i<= array.length; i+=1){
   const person = document.createElement('li');
   person.className = 'speakers-list';
   person.innerHTML = `<div class="img-container">
-        <img class="speakers-img" src="${speaker.speakersPicture}" width="90%" alt="">
+        <img class="speakers-img" src="${array[i].speakersPicture}" width="90%" alt="">
     </div>
     <div class="speakers-details">
-        <h5>${speaker.speakersName}</h5>
-        <h4><i>${speaker.positionHeld}</i></h4>
+        <h5>${array[i].speakersName}</h5>
+        <h4><i>${array[i].positionHeld}</i></h4>
         <hr class="line">
-        <h6>${speaker.quoteDescription}</h6>
+        <h6>${array[i].quoteDescription}</h6>
     </div>`;
 
   speakersID.appendChild(person);
-});
+
+  if(i>=2){
+    person.className = 'speakers-list hidden';
+
+  }
+
+}
+
+
+
+
+
+
+
+
+// array.forEach((speaker) => {
+//   const person = document.createElement('li');
+//   person.className = 'speakers-list';
+//   person.innerHTML = `<div class="img-container">
+//         <img class="speakers-img" src="${speaker.speakersPicture}" width="90%" alt="">
+//     </div>
+//     <div class="speakers-details">
+//         <h5>${speaker.speakersName}</h5>
+//         <h4><i>${speaker.positionHeld}</i></h4>
+//         <hr class="line">
+//         <h6>${speaker.quoteDescription}</h6>
+//     </div>`;
+
+//   speakersID.appendChild(person);
