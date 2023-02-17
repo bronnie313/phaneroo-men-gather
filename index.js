@@ -46,7 +46,7 @@ const array = [
     quoteDescription: 'Have a tradition of excellence in research, learning and teaching, sports and the arts, and more',
   },
   {
-    speakersPicture: './images/td jakes.jpg',
+    speakersPicture: './images/td jakes.jfif',
     speakersName: 'T.D. Jakes',
     positionHeld: 'American Bishop',
     quoteDescription: 'No woman wants to be in submission to a man who isnt in submission to God!',
