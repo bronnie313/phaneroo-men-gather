@@ -28,7 +28,7 @@ const array = [
     quoteDescription: ' Here you will find grace-based teachings that will help you grow in your identity as a beloved and righteous child of God',
   },
   {
-    speakersPicture: './images/john.jpg',
+    speakersPicture: './images/anand.jpeg',
     speakersName: 'John Lennon',
     positionHeld: 'Music and Peace Activist',
     quoteDescription: 'Peace is not something you wish for; Its something you make something you do, something you are, and something you give away.',
