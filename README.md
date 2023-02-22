@@ -117,6 +117,8 @@ You can deploy this project using:https://github.com/bronnie313/phaneroo-men-gat
 
 ## 👥 Authors <a name="authors"></a>
 
+**👥 Ronnie Bisaso**
+
 - GitHub: [@bronnie313](https://github.com/bronnie313)
 - Twitter: [@bisaso_r](https://twitter.com/bisaso_r)
 - LinkedIn: [Ronald Bisaso](https://linkedin.com/in/BisasoRonald)
