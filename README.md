@@ -77,7 +77,8 @@ A project was built Using
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [See WEB here](https://bronnie313.github.io/phaneroo-men-gather/)
-- [See PRESENTATION here](https://bronnie313.github.io/phaneroo-men-gather/)
+
+- [See PRESENTATION here](https://www.loom.com/share/3f97ca931eb942d19820d2a8f33792f1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
